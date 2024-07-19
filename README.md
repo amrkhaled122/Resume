@@ -1,1 +1,1 @@
-![Alt text](Resume/Amr_Abdelbaky_cv.pdf)
+![Alt text](Amr_Abdelbaky_cv.pdf)
